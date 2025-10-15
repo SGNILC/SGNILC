@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Header](https://media.licdn.com/dms/image/v2/D5616AQFjeKJhRzWWgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720402054591?e=1763596800&v=beta&t=ug4Ufel4oTloRhPDvT6X6oFtAxeqzcwAUwwoSedxxqg)]([https://some-url.dev/](https://www.linkedin.com/in/steeve-nsangou-572341241/))
 <!--
 **SGNILC/SGNILC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
