@@ -30,10 +30,11 @@ My name is Steeve, and I am a graduate research student at Chuo Univerty (Tokyo,
 
 <i>*All work shared here reflect my own opinions and does not reflect any of my affiliated institutions.</i>
 
+## GitHub Usage Statistics <img src="computer.gif" width="25" height="25">
 <!--User Statistics-->
 [![Steeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgnilc&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies & Tools
+## Technologies & Tools <img src="wrench.gif" width="25" height="25">
 <!--User Skills-->
 ![](https://img.shields.io/badge/Code-JavaScript-white?logo=javascript&logoColor=f5f5f5)
 ![](https://img.shields.io/badge/Code-Python-white?logo=python&logoColor=f5f5f5)
@@ -51,7 +52,7 @@ My name is Steeve, and I am a graduate research student at Chuo Univerty (Tokyo,
 ![](https://img.shields.io/badge/Collaborative-Miro-white?logo=Miro&logoColor=f5f5f5)
 ![](https://img.shields.io/badge/Collaborative-Jira-white?logo=Jira&logoColor=f5f5f5)
 
-## Contact 
+## Contact <img src="phone.gif" width="30" height="30">
 <a href="https://www.linkedin.com/in/steeve-nsangou/">
   <img src="download.png" width="20" height="20">
 </a>
