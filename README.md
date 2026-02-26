@@ -4,7 +4,7 @@
 
 <!--Introduction-->
 <!-- Icons -->
-I'm Steeve, and I am a graduate research student at Chuo Univerty (Tokyo, JP). I’m always eager to connect with others who are building thoughtfully.</b>
+I am Steeve, a graduate research student at Chuo Univerty (Tokyo, JP). I’m always eager to connect with others who are building thoughtfully.</b>
 
 - 😄 Pronouns: **he/him/his**
 - 🔭 I’m currently working on **independent graduate research**
