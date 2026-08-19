@@ -4,14 +4,14 @@
 
 <!--Introduction-->
 <!-- Icons -->
-I am Steeve, a graduate research student at Chuo Univerty (Tokyo, JP). I’m always eager to connect with others who are building thoughtfully.</b>
+I am Steeve, a recent Fulbright Fellow at Chuo Univerty (Tokyo, JP).</b>
 
 - 😄 Pronouns: **he/him/his**
-- 🔭 I’m currently working on **independent graduate research**
-- 🌱 I’m currently learning **statistical methods for data analysis**
+- 🔭 I’m currently working on **personal projects**
+- 🌱 I’m currently learning **how to build with AI**
 - 💬 Ask me about **life in Japan**
 - 📫 How to reach me: `steevensangou@gmail.com`
-- ⚡ Fun fact: I can read the English, French, Japanese, Spanish, and Korean alphabets (but don't ask me what the sentence means)!
+- ⚡ Fun fact: I can read the English, French, Japanese, Spanish, and Hangul (but don't ask me what the sentence means)!
 
 <i>*All work shared here reflect my own opinions and does not reflect any of my affiliated institutions.</i>
 
