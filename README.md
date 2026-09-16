@@ -15,9 +15,6 @@ I am Steeve, a recent Fulbright Fellow at Chuo Univerty (Tokyo, JP).</b>
 
 <i>*All work shared here reflect my own opinions and does not reflect any of my affiliated institutions.</i>
 
-## GitHub Usage Statistics <img src="computer.gif" width="25" height="25">
-<!--User Statistics-->
-[![Steeve's GitHub stats](https://github-readme-stats-seven-dusky-44.vercel.app/api?username=sgnilc&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 ## Technologies & Tools <img src="wrench.gif" width="25" height="25">
 <!--User Skills-->
 ![](https://img.shields.io/badge/Code-JavaScript-white?logo=javascript&logoColor=f5f5f5)
